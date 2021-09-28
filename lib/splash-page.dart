@@ -19,6 +19,7 @@ class SplashPage extends StatelessWidget {
     navigateToHome(context);
 
     return Scaffold(
+      // to increase my commit
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
